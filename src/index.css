@@ -1,0 +1,12 @@
+.dogs {
+  background: lightblue;
+
+  li {
+    color: purple;
+
+    &:hover {
+      background: palevioletred;
+    }
+  }
+
+}
